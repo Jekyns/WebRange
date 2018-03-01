@@ -41,7 +41,7 @@ html.fp-enabled,
     width: 100%;
 }
 .fp-tableCell:first-child{
-	vertical-align: top;
+
 }
 .fp-tableCell {
     display: table-cell;
